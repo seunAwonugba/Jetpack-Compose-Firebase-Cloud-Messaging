@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "968571145751",
+    "project_id": "composefcm-996fb",
+    "storage_bucket": "composefcm-996fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968571145751:android:9400565558b8603a801652",
+        "android_client_info": {
+          "package_name": "com.example.composefcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968571145751-9hfa91qoo8gk6dtasq8bbfhtlta51ik3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy1xfIbgp6jqAJRx9SrqLx0NPfRfk9_tM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968571145751-9hfa91qoo8gk6dtasq8bbfhtlta51ik3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

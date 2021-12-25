@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ComposeFCM</string>
+
+
+<!--    <string name="channel_name">AutoChek Application</string>-->
+    <string name="channel_description">AutoChek Application</string>
+</resources>
